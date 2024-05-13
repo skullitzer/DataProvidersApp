@@ -1,0 +1,6 @@
+1;TekSavvy;50A;teksavvy;35
+2;bell canada;120;bellcanada; 12
+3;VideoTron;78;videotron;10
+4;ACanac;65;acanac;13
+5;altima tel;55;altima;18
+6;bravo tel; 75 ;bravo;25
